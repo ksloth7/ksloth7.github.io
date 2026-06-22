@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+span #p1 {
+    color: rgb(85, 56, 86);
+}
+span #p2 {
+    color: rgb(85, 56, 86);
+}
+span #p3 {
+    color: rgb(85, 56, 86);
+}   
