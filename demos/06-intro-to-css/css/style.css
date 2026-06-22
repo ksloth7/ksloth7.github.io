@@ -1,0 +1,38 @@
+#p1 {
+    color: rgb(149, 64, 224);
+}
+#p2 {
+    color: lightblue;
+}
+#p3 {
+    color: lightgreen;
+}
+p   {
+    background-color: #72918d;
+}
+span {
+    color: whitesmoke;
+}
+#sp1 {
+    color: whitesmoke;
+    background-color: lightcoral;
+}
+#sp2 {
+    color: lightyellow;
+    font-weight: bold;
+}
+#sp3 {
+    color: lightpink;
+    font-size: 1.2em;
+}
+#sp4 {
+    color: lightseagreen;
+    letter-spacing: 2px;
+}
+#sp5 {
+    color: lightsalmon;
+    font-style: italic;
+}
+p {
+    text-align: center;
+}
