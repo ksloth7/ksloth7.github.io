@@ -1,0 +1,11 @@
+span {
+    font-weight: bold;
+}
+.split {
+    background-color: darkcyan;
+    padding: 24px;
+    margin: 24px;
+    display: inline-block;
+    width: 200px;
+    border: 2px solid black;
+}
