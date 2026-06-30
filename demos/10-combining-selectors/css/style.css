@@ -1,0 +1,34 @@
+#navbar {
+    text-align: center;
+    padding: 24px;
+    background-color: #4682b4;
+}
+#navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 0px 12px;
+}
+p a {
+    color: teal;
+}
+
+p.warning {
+    background-color: #ffcccb;
+}
+
+p.warning a {
+    color: red;
+    font-weight: bold;
+}
+ul {
+    color: #0fb628;
+}
+ul a {
+    color: #d9d923;
+}
+ul p a {
+    color: #863cbc;
+}
+ul div a {
+    color: #e5ab40;
+}
