@@ -1,0 +1,24 @@
+
+* {
+    box-sizing: border-box;
+}
+header {
+    margin: 0px;
+    font-family: sans-serif;
+    text-align: center;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.sc {
+    background-color: lightgoldenrodyellow;
+    width: 85%; 
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    padding: 24px;
+    line-height: 1.5;
+}
