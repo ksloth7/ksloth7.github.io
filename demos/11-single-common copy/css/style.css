@@ -5,8 +5,8 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
-.sc { 
-    background-color: green;
+.sc {
+    background-color: lightcyan;
     width: 85%; 
     max-width: 900px;
     margin-left: auto;
