@@ -28,6 +28,8 @@ img {
     flex: 1;
 }
 
+h2 {text-align: c}
+
 .content {
     background-color: rgb(219, 170, 219);
 }
