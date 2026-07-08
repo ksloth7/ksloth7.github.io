@@ -6,4 +6,7 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
- 
+.photo {
+    width: 300%;
+    height: auto;
+}
