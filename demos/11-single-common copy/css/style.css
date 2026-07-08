@@ -6,12 +6,51 @@ body {
     font-family: sans-serif;
 }
 .sc {
-    background-color: lightcyan;
     width: 85%; 
     max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    padding: 24px;
+    margin: 0px auto;
+}
+.two-column {
+    display: flex;
+    gap: 50px;
+
+}
+.sidebar {
+        background-color: lightgreen;
+        width: 200px;
+    }
+    .sidebar h2 {
+        margin-top: 0px;
+        background-color:aqua;
+        color: lightyellow;
+        padding: 6px 12px;
+    }
+    .sidebar ul {
+        border: 0.5px solid bold blue;
+        margin: 0px 0px 24px;
+        padding: 12px;
+        list-style-type: square;
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    }
+    .sidebar a { 
+        text-decoration: none;
+        color:blueviolet;
+    }
+li {
+    margin: 10px 20px;
+}
+.content {
+        background-color: lightsalmon;
+        flex: 1;
+    }
+}
+.btn {
+    display: inline-block;
+    background-color: red;
+    padding: 12px 16px;
+    border-radius: 4px;
+    text-decoration: underline;
+    color: darkorange;
 }
