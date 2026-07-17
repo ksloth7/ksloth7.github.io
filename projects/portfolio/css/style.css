@@ -103,7 +103,7 @@ body {
 }
 
 .card {
-    flex: padding: 0px;
+    flex: padding: 40px;
     border: 4px solid rgb(226, 50, 82);
     height: auto;
     border-radius: 10px;
