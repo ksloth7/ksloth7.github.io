@@ -107,7 +107,8 @@ body {
     border: 4px solid rgb(226, 50, 82);
     height: auto;
     border-radius: 10px;
-    margin-left: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 .card-img {
