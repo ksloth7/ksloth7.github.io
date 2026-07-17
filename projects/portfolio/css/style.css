@@ -19,6 +19,7 @@ body {
     justify-content: right;
     align-items: center; 
     text-align: right;
+    color: rgb(226, 50, 82);
     background-image: url("../images/urban-hi-res-3q76.jpg");
     height: 40vh;
     background-size: cover;
@@ -98,7 +99,6 @@ body {
     gap: 15px;
     justify-content: center;
     text-align: center;
-    
 }
 
 .card {
@@ -107,6 +107,7 @@ body {
     height: auto;
     border-radius: 10px;
     margin-left: 50px;
+}
 
 .card-img {
     width:100%;
