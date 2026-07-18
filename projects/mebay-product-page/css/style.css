@@ -1,0 +1,23 @@
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 70px;
+    font-family: sans-serif;
+}
+
+#layout {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+#column-1
+#column-2
+#column-3 {
+    flex: 1;
+    padding: 20px;
+}
+
