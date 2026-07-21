@@ -40,7 +40,8 @@ body {
 
 .image-container {
     display: flex;
-    justify-content: 
+    justify-content: center
+
 }
 
 .hero-content {
